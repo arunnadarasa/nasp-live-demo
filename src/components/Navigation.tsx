@@ -39,7 +39,7 @@ const Navigation = () => {
           {/* Logo */}
           <Link to="/" className="flex items-center space-x-2">
             <Heart className="h-6 w-6 text-primary" />
-            <span className="font-semibold text-lg">ConnectRx</span>
+            <span className="font-semibold text-lg">iSocialRx</span>
           </Link>
 
           {/* Desktop Navigation */}

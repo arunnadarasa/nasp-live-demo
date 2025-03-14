@@ -44,7 +44,7 @@ const Footer = () => {
           <div className="lg:col-span-2">
             <div className="flex items-center space-x-2 mb-4">
               <Heart className="h-6 w-6 text-primary" />
-              <span className="font-semibold text-lg">ConnectRx</span>
+              <span className="font-semibold text-lg">iSocialRx</span>
             </div>
             <p className="text-foreground/70 mb-6 max-w-md">
               Empowering community pharmacies with tools to provide holistic care through 
@@ -97,7 +97,7 @@ const Footer = () => {
         
         <div className="flex flex-col md:flex-row justify-between items-center text-sm text-foreground/60">
           <div className="mb-4 md:mb-0">
-            © {currentYear} ConnectRx. All rights reserved.
+            © {currentYear} iSocialRx. All rights reserved.
           </div>
           <div className="flex space-x-6">
             <a href="#" className="hover:text-primary transition-colors">Privacy Policy</a>
